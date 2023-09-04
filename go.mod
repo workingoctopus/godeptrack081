@@ -1,4 +1,4 @@
-module github.com/DependencyTrack/client-go
+module github.com/workingoctopus/godeptrack081
 
 go 1.18
 
